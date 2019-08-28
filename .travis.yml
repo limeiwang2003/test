@@ -1,2 +1,2 @@
 language: python
-script: true
+script: new 1.txt
